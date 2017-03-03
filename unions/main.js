@@ -1,4 +1,5 @@
 
+const Quickunion = require('./quickunion')
 const Quickfind = require('./quickfind')
 
 var q = new Quickfind();
